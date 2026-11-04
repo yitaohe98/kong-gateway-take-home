@@ -1,7 +1,5 @@
 # Engineering Decision Log
 
-[中文版](engineering-decisions.zh-CN.md)
-
 This document defines the solution boundary for the distributed rate-limiting
 assignment: what was engineered in depth, what was deliberately simplified,
 and what remains before the service is production-ready.

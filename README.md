@@ -1,7 +1,5 @@
 # Distributed Rate Limiter
 
-[中文说明](README.zh-CN.md)
-
 A standalone Redis-backed admission service implementing option 1 of the Kong
 Gateway take-home assignment.
 
